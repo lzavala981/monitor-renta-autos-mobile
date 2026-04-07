@@ -1,0 +1,35 @@
+name: Mobile Monitor Bot
+
+on:
+  schedule:
+    - cron: '0 */2 * * *' # Se ejecuta cada 2 horas
+  workflow_dispatch:      # Botón para ejecutar manualmente
+
+jobs:
+  run-scrapper:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install deps
+        run: |
+          pip install pytz playwright
+          playwright install chromium
+          playwright install-deps chromium
+
+      - name: Execute Scraper
+        run: python scrapper.py
+
+      - name: Save Results
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add reporte_mobile.csv
+          git commit -m "Auto-update: Mobile Scan" || exit 0
+          git push
