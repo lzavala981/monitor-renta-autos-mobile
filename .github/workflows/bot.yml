@@ -25,11 +25,12 @@ jobs:
 
       - name: Execute Scraper
         run: python scrapper.py
-
+        
       - name: Save Results
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add reporte_mobile.csv
           git commit -m "Auto-update: Mobile Scan" || exit 0
+          git pull --rebase origin main
           git push
