@@ -3407,3 +3407,15 @@ Fecha,Hora,Nombre Comercial,URL,Status,Codigo HTTP,Tiempo de Carga (segundos)
 7/05/2026,15:11:30,Localiza,https://www.localiza.com/mexico/es-mx,OK,200,1.7
 7/05/2026,15:11:30,Enterprise,https://enterprise.mx/,OK,200,2.11
 7/05/2026,15:11:30,Europcar,https://www.europcar.com.mx/,OK,200,0.75
+7/05/2026,17:05:13,Hertz,https://www.hertzmexico.com/,OK,200,0.44
+7/05/2026,17:05:13,Dollar,https://dollarmexico.com.mx/,OK,200,0.36
+7/05/2026,17:05:13,Thrifty,https://www.thrifty.com.mx/,OK,200,0.48
+7/05/2026,17:05:13,Firefly,https://www.fireflycarrental.com.mx/,OK,200,0.55
+7/05/2026,17:05:13,Avis,https://avis.mx/,OK,200,0.79
+7/05/2026,17:05:13,National,https://nationalcar.com.mx/,OK,200,3.81
+7/05/2026,17:05:13,Alamo,https://www.alamo.com.mx/es,OK,200,1.2
+7/05/2026,17:05:13,Mex Rent A Car,https://mexrentacar.com/es/index,OK,200,1.25
+7/05/2026,17:05:13,Budget,https://budget.com.mx/#/,OK,200,0.43
+7/05/2026,17:05:13,Localiza,https://www.localiza.com/mexico/es-mx,OK,200,0.98
+7/05/2026,17:05:13,Enterprise,https://enterprise.mx/,OK,200,2.62
+7/05/2026,17:05:13,Europcar,https://www.europcar.com.mx/,OK,200,0.47
