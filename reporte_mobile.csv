@@ -4511,3 +4511,15 @@ Fecha,Hora,Nombre Comercial,URL,Status,Codigo HTTP,Tiempo de Carga (segundos)
 19/05/2026,06:50:43,Localiza,https://www.localiza.com/mexico/es-mx,OK,200,0.93
 19/05/2026,06:50:43,Enterprise,https://enterprise.mx/,OK,200,2.71
 19/05/2026,06:50:43,Europcar,https://www.europcar.com.mx/,OK,200,0.5
+19/05/2026,10:53:16,Hertz,https://www.hertzmexico.com/,OK,200,0.32
+19/05/2026,10:53:16,Dollar,https://dollarmexico.com.mx/,OK,200,0.33
+19/05/2026,10:53:16,Thrifty,https://www.thrifty.com.mx/,OK,200,1.05
+19/05/2026,10:53:16,Firefly,https://www.fireflycarrental.com.mx/,OK,200,0.83
+19/05/2026,10:53:16,Avis,https://avis.mx/,OK,200,0.79
+19/05/2026,10:53:16,National,https://nationalcar.com.mx/,OK,200,2.48
+19/05/2026,10:53:16,Alamo,https://www.alamo.com.mx/es,OK,200,1.57
+19/05/2026,10:53:16,Mex Rent A Car,https://mexrentacar.com/es/index,OK,200,0.57
+19/05/2026,10:53:16,Budget,https://budget.com.mx/#/,OK,200,0.59
+19/05/2026,10:53:16,Localiza,https://www.localiza.com/mexico/es-mx,OK,200,1.66
+19/05/2026,10:53:16,Enterprise,https://enterprise.mx/,OK,200,1.56
+19/05/2026,10:53:16,Europcar,https://www.europcar.com.mx/,OK,200,0.78
