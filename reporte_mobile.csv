@@ -5303,3 +5303,15 @@ Fecha,Hora,Nombre Comercial,URL,Status,Codigo HTTP,Tiempo de Carga (segundos)
 29/05/2026,04:08:32,Localiza,https://www.localiza.com/mexico/es-mx,OK,200,0.95
 29/05/2026,04:08:32,Enterprise,https://enterprise.mx/,OK,200,0.86
 29/05/2026,04:08:32,Europcar,https://www.europcar.com.mx/,OK,200,0.58
+29/05/2026,10:00:57,Hertz,https://www.hertzmexico.com/,OK,200,0.3
+29/05/2026,10:00:57,Dollar,https://dollarmexico.com.mx/,OK,200,0.37
+29/05/2026,10:00:57,Thrifty,https://www.thrifty.com.mx/,OK,200,0.44
+29/05/2026,10:00:57,Firefly,https://www.fireflycarrental.com.mx/,OK,200,0.46
+29/05/2026,10:00:57,Avis,https://avis.mx/,OK,200,0.77
+29/05/2026,10:00:57,National,https://nationalcar.com.mx/,OK,200,3.31
+29/05/2026,10:00:57,Alamo,https://www.alamo.com.mx/es,OK,200,1.43
+29/05/2026,10:00:57,Mex Rent A Car,https://mexrentacar.com/es/index,OK,200,1.5
+29/05/2026,10:00:57,Budget,https://budget.com.mx/#/,OK,200,0.69
+29/05/2026,10:00:57,Localiza,https://www.localiza.com/mexico/es-mx,OK,200,1.25
+29/05/2026,10:00:57,Enterprise,https://enterprise.mx/,OK,200,0.74
+29/05/2026,10:00:57,Europcar,https://www.europcar.com.mx/,OK,200,0.65
