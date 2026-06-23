@@ -7163,3 +7163,15 @@ Fecha,Hora,Nombre Comercial,URL,Status,Codigo HTTP,Tiempo de Carga (segundos)
 23/06/2026,06:42:49,Localiza,https://www.localiza.com/mexico/es-mx,OK,200,1.76
 23/06/2026,06:42:49,Enterprise,https://enterprise.mx/,OK,200,1.32
 23/06/2026,06:42:49,Europcar,https://www.europcar.com.mx/,OK,200,0.5
+23/06/2026,10:30:06,Hertz,https://www.hertzmexico.com/,OK,200,0.71
+23/06/2026,10:30:06,Dollar,https://dollarmexico.com.mx/,OK,200,0.55
+23/06/2026,10:30:06,Thrifty,https://www.thrifty.com.mx/,OK,200,0.58
+23/06/2026,10:30:06,Firefly,https://www.fireflycarrental.com.mx/,OK,200,0.57
+23/06/2026,10:30:06,Avis,https://avis.mx/,OK,200,0.89
+23/06/2026,10:30:06,National,https://nationalcar.com.mx/,OK,200,3.75
+23/06/2026,10:30:06,Alamo,https://www.alamo.com.mx/es,OK,200,1.39
+23/06/2026,10:30:06,Mex Rent A Car,https://mexrentacar.com/es/index,OK,200,1.8
+23/06/2026,10:30:06,Budget,https://budget.com.mx/#/,OK,200,0.97
+23/06/2026,10:30:06,Localiza,https://www.localiza.com/mexico/es-mx,OK,200,1.49
+23/06/2026,10:30:06,Enterprise,https://enterprise.mx/,OK,200,1.36
+23/06/2026,10:30:06,Europcar,https://www.europcar.com.mx/,OK,200,1.6
