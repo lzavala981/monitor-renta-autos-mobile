@@ -9011,3 +9011,15 @@ Fecha,Hora,Nombre Comercial,URL,Status,Codigo HTTP,Tiempo de Carga (segundos)
 14/07/2026,00:19:01,Localiza,https://www.localiza.com/mexico/es-mx,OK,200,1.12
 14/07/2026,00:19:01,Enterprise,https://enterprise.mx/,OK,200,1.48
 14/07/2026,00:19:01,Europcar,https://www.europcar.com.mx/,OK,200,0.49
+14/07/2026,04:05:32,Hertz,https://www.hertzmexico.com/,OK,200,0.75
+14/07/2026,04:05:32,Dollar,https://dollarmexico.com.mx/,OK,200,3.64
+14/07/2026,04:05:32,Thrifty,https://www.thrifty.com.mx/,Fallo,403,0.21
+14/07/2026,04:05:32,Firefly,https://www.fireflycarrental.com.mx/,Fallo,403,0.32
+14/07/2026,04:05:32,Avis,https://avis.mx/,OK,200,0.88
+14/07/2026,04:05:32,National,https://nationalcar.com.mx/,OK,200,3.84
+14/07/2026,04:05:32,Alamo,https://www.alamo.com.mx/es,OK,200,1.12
+14/07/2026,04:05:32,Mex Rent A Car,https://mexrentacar.com/es/index,OK,200,1.79
+14/07/2026,04:05:32,Budget,https://budget.com.mx/#/,OK,200,0.49
+14/07/2026,04:05:32,Localiza,https://www.localiza.com/mexico/es-mx,OK,200,1.3
+14/07/2026,04:05:32,Enterprise,https://enterprise.mx/,OK,200,1.45
+14/07/2026,04:05:32,Europcar,https://www.europcar.com.mx/,OK,200,0.45
