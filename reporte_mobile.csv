@@ -9203,3 +9203,15 @@ Fecha,Hora,Nombre Comercial,URL,Status,Codigo HTTP,Tiempo de Carga (segundos)
 15/07/2026,21:22:17,Localiza,https://www.localiza.com/mexico/es-mx,OK,200,1.13
 15/07/2026,21:22:17,Enterprise,https://enterprise.mx/,OK,200,0.88
 15/07/2026,21:22:17,Europcar,https://www.europcar.com.mx/,OK,200,0.77
+16/07/2026,00:25:59,Hertz,https://www.hertzmexico.com/,OK,200,5.08
+16/07/2026,00:25:59,Dollar,https://dollarmexico.com.mx/,OK,200,0.61
+16/07/2026,00:25:59,Thrifty,https://www.thrifty.com.mx/,Fallo,403,0.15
+16/07/2026,00:25:59,Firefly,https://www.fireflycarrental.com.mx/,Fallo,403,0.23
+16/07/2026,00:25:59,Avis,https://avis.mx/,OK,200,0.86
+16/07/2026,00:25:59,National,https://nationalcar.com.mx/,OK,200,3.36
+16/07/2026,00:25:59,Alamo,https://www.alamo.com.mx/es,OK,200,1.35
+16/07/2026,00:25:59,Mex Rent A Car,https://mexrentacar.com/es/index,OK,200,0.9
+16/07/2026,00:25:59,Budget,https://budget.com.mx/#/,OK,200,0.81
+16/07/2026,00:25:59,Localiza,https://www.localiza.com/mexico/es-mx,OK,200,1.55
+16/07/2026,00:25:59,Enterprise,https://enterprise.mx/,OK,200,1.13
+16/07/2026,00:25:59,Europcar,https://www.europcar.com.mx/,OK,200,1.33
