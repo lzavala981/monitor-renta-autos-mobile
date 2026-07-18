@@ -9479,3 +9479,15 @@ Fecha,Hora,Nombre Comercial,URL,Status,Codigo HTTP,Tiempo de Carga (segundos)
 18/07/2026,11:04:19,Localiza,https://www.localiza.com/mexico/es-mx,OK,200,1.14
 18/07/2026,11:04:19,Enterprise,https://enterprise.mx/,OK,200,1.37
 18/07/2026,11:04:19,Europcar,https://www.europcar.com.mx/,OK,200,0.51
+18/07/2026,13:14:30,Hertz,https://www.hertzmexico.com/,OK,200,0.67
+18/07/2026,13:14:30,Dollar,https://dollarmexico.com.mx/,OK,200,0.64
+18/07/2026,13:14:30,Thrifty,https://www.thrifty.com.mx/,Fallo,403,0.19
+18/07/2026,13:14:30,Firefly,https://www.fireflycarrental.com.mx/,Fallo,403,0.17
+18/07/2026,13:14:30,Avis,https://avis.mx/,OK,200,0.86
+18/07/2026,13:14:30,National,https://nationalcar.com.mx/,OK,200,3.86
+18/07/2026,13:14:30,Alamo,https://www.alamo.com.mx/es,OK,200,1.25
+18/07/2026,13:14:30,Mex Rent A Car,https://mexrentacar.com/es/index,OK,200,1.83
+18/07/2026,13:14:30,Budget,https://budget.com.mx/#/,OK,200,0.98
+18/07/2026,13:14:30,Localiza,https://www.localiza.com/mexico/es-mx,OK,200,0.96
+18/07/2026,13:14:30,Enterprise,https://enterprise.mx/,OK,200,1.45
+18/07/2026,13:14:30,Europcar,https://www.europcar.com.mx/,OK,200,0.49
