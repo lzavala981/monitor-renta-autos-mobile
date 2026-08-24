@@ -13703,3 +13703,15 @@ Fecha,Hora,Nombre Comercial,URL,Status,Codigo HTTP,Tiempo de Carga (segundos)
 23/08/2026,19:47:22,Localiza,https://www.localiza.com/mexico/es-mx,OK,200,1.18
 23/08/2026,19:47:22,Enterprise,https://enterprise.mx/,OK,200,1.01
 23/08/2026,19:47:22,Europcar,https://www.europcar.com.mx/,OK,200,0.81
+23/08/2026,21:11:04,Hertz,https://www.hertzmexico.com/,OK,200,0.54
+23/08/2026,21:11:04,Dollar,https://dollarmexico.com.mx/,OK,200,0.66
+23/08/2026,21:11:04,Thrifty,https://www.thrifty.com.mx/,Fallo,403,0.18
+23/08/2026,21:11:04,Firefly,https://www.fireflycarrental.com.mx/,Fallo,403,0.17
+23/08/2026,21:11:04,Avis,https://avis.mx/,OK,200,1.04
+23/08/2026,21:11:04,National,https://nationalcar.com.mx/,OK,200,3.29
+23/08/2026,21:11:04,Alamo,https://www.alamo.com.mx/es,OK,200,0.78
+23/08/2026,21:11:04,Mex Rent A Car,https://mexrentacar.com/es/index,OK,200,0.86
+23/08/2026,21:11:04,Budget,https://budget.com.mx/#/,OK,200,0.93
+23/08/2026,21:11:04,Localiza,https://www.localiza.com/mexico/es-mx,OK,200,1.2
+23/08/2026,21:11:04,Enterprise,https://enterprise.mx/,OK,200,1.24
+23/08/2026,21:11:04,Europcar,https://www.europcar.com.mx/,OK,200,0.72
