@@ -14015,3 +14015,15 @@ Fecha,Hora,Nombre Comercial,URL,Status,Codigo HTTP,Tiempo de Carga (segundos)
 25/08/2026,22:48:20,Localiza,https://www.localiza.com/mexico/es-mx,OK,200,1.2
 25/08/2026,22:48:20,Enterprise,https://enterprise.mx/,OK,200,1.49
 25/08/2026,22:48:20,Europcar,https://www.europcar.com.mx/,OK,200,0.44
+26/08/2026,00:59:47,Hertz,https://www.hertzmexico.com/,OK,200,5.38
+26/08/2026,00:59:47,Dollar,https://dollarmexico.com.mx/,OK,200,0.58
+26/08/2026,00:59:47,Thrifty,https://www.thrifty.com.mx/,Fallo,403,0.23
+26/08/2026,00:59:47,Firefly,https://www.fireflycarrental.com.mx/,Fallo,403,0.07
+26/08/2026,00:59:47,Avis,https://avis.mx/,OK,200,0.85
+26/08/2026,00:59:47,National,https://nationalcar.com.mx/,OK,200,3.5
+26/08/2026,00:59:47,Alamo,https://www.alamo.com.mx/es,OK,200,0.65
+26/08/2026,00:59:47,Mex Rent A Car,https://mexrentacar.com/es/index,OK,200,0.94
+26/08/2026,00:59:47,Budget,https://budget.com.mx/#/,OK,200,1.01
+26/08/2026,00:59:47,Localiza,https://www.localiza.com/mexico/es-mx,OK,200,1.15
+26/08/2026,00:59:47,Enterprise,https://enterprise.mx/,OK,200,1.15
+26/08/2026,00:59:47,Europcar,https://www.europcar.com.mx/,OK,200,0.62
